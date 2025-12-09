@@ -11,39 +11,4 @@
 
 
 
-## Features & Technologies Used
-
-✅ Architecture & Tech Stack
-MVVM Architecture with clear separation of concerns
-Provider for state management
-GoRouter for navigation
-SQLite (sqflite) for local database storage
-Dart programming language
-✅ Features Implemented
-Activities Screen - Main screen showing list of activities with:
-
-Activity cards with emoji icons, names, and stats
-21-day completion calendar grid
-Circular action buttons for starting sessions/adding tallies
-Bottom navigation bar
-Select Activity Screen - Choose activity type:
-
-Timed Activity (purple border)
-Simple Tally (red border)
-Measured Tally (blue border)
-Example activities for each type
-Inspiration section
-Create Activity Screen - Add new activities with:
-
-Name input
-Emoji selection
-Color customization
-✅ Database Structure
-Activities table (name, emoji, type, color, timestamps)
-Activity entries table (duration/count/value tracking)
-Sample data pre-loaded (Reading and Running activities)
-✅ Models & ViewModels
-Activity and ActivityEntry models
-ActivityViewModel managing all business logic
-DatabaseService for SQLite operations
-The app is currently building and will launch on Windows. All screens match the design with proper colors, layouts, and interactions!
+## nothing
